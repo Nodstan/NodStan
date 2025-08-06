@@ -16,7 +16,7 @@ I'm a passionate software development student at **NIIT**, currently focused on 
 - **Frontend**: React.js, React Native, HTML5, CSS3, JavaScript
 - **Backend**: Java (Spring Framework), REST APIs
 - **Databases**: MySQL, MongoDB
-- **Tools**: Git, GitHub, VS Code, Postman, Android Studio
+- **Tools**: Git, GitHub, VS Code, Postman, Docker, Intellij
 
 ---
 
