@@ -39,5 +39,3 @@ I'm a passionate software development student at **NIIT**, currently focused on 
 - **LinkedIn**: [Stanley Obitunwase](https://www.linkedin.com/in/stanley-obitunwase-913866361/)
 - **GitHub**: [@nodstan](https://github.com/nodstan)
 - **Portfolio**: [Check out my portfolio](https://nodstan.github.io/meyawo-1.0.0/)
-
-📌 *Portfolio coming soon — stay tuned!*
