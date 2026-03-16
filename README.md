@@ -5,7 +5,7 @@ I'm a passionate software development student at **NIIT**, currently focused on 
 ---
 
 ## 🌱 Currently Learning & Growing In
-- **Frontend Mastery**: Building sleek user interfaces with **React.js** and **React Native**.
+- **Frontend Mastery**: Building sleek user interfaces with **Angular**, **React.js** and **React Native**.
 - **Backend Development**: Diving into **Java Spring** to understand robust API and server-side logic.
 - **Databases**: Practicing both **MySQL** and **NoSQL (MongoDB)** for real-world data handling.
 - **Mobile-first Thinking**: Designing responsive, accessible applications with performance in mind.
@@ -13,7 +13,7 @@ I'm a passionate software development student at **NIIT**, currently focused on 
 ---
 
 ## 🧰 Tech Stack
-- **Frontend**: React.js, React Native, HTML5, CSS3, JavaScript
+- **Frontend**: Angular, React.js, React Native, HTML5, CSS3, JavaScript
 - **Backend**: Java (Spring Framework), REST APIs
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git, GitHub, VS Code, Postman, Docker, Intellij
@@ -36,6 +36,6 @@ I'm a passionate software development student at **NIIT**, currently focused on 
 ---
 
 ## 📫 Let’s Connect
-- **LinkedIn**: [Stanley Obitunwase](https://www.linkedin.com/in/stanley-obitunwase-a11668308/)
+- **LinkedIn**: [Stanley Obitunwase](https://www.linkedin.com/in/stanley-obitunwase/)
+- **Portfolio**: [Check out my portfolio](https://nodstan.vervel.app/)
 - **GitHub**: [@nodstan](https://github.com/nodstan)
-- **Portfolio**: [Check out my portfolio](https://stanleyobitunwaseportfolio.netlify.app/)
