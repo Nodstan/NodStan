@@ -1,41 +1,48 @@
-# 👋 Hi there, I'm Stanley Obitunwase
+# 👋 Hi, I'm Stanley Obitunwase
+### Full-Stack Software Engineer | UI/UX Advocate | Infrastructure Enthusiast
 
-I'm a passionate software development student at **NIIT**, currently focused on becoming a well-rounded full stack developer. I enjoy turning ideas into user-friendly solutions — whether it's a mobile app, web project, or backend system.
-
----
-
-## 🌱 Currently Learning & Growing In
-- **Frontend Mastery**: Building sleek user interfaces with **Angular**, **React.js** and **React Native**.
-- **Backend Development**: Diving into **Java Spring** to understand robust API and server-side logic.
-- **Databases**: Practicing both **MySQL** and **NoSQL (MongoDB)** for real-world data handling.
-- **Mobile-first Thinking**: Designing responsive, accessible applications with performance in mind.
+I am a Full-Stack Engineer who thrives at the intersection of **clean code** and **intuitive design**. Currently, I’m building scalable solutions at **Tresbontech LTD**, where I bridge the gap between robust backend logic and high-performance frontend experiences.
 
 ---
 
-## 🧰 Tech Stack
-- **Frontend**: Angular, React.js, React Native, HTML5, CSS3, JavaScript
-- **Backend**: Java (Spring Framework), REST APIs
-- **Databases**: MySQL, MongoDB
-- **Tools**: Git, GitHub, VS Code, Postman, Docker, Intellij
+### 🚀 Professional Snapshot
+- **Building the Web:** Architecting production-level sites using **React** and **Angular**.
+- **Infrastructure:** Managing and optimizing production environments on **Hostinger VPS** (Migrated from Vercel/Koyeb for better control).
+- **Mobile:** Developing cross-platform experiences with **React Native**.
+- **Philosophy:** "Leave the codebase cleaner than you found it." I prioritize **SOLID** principles and **DRY** architecture.
 
 ---
 
-## 🚀 Projects & Highlights
-- 📱 Built mobile-first interfaces with React Native for prototype apps
-- 🔐 Created user auth and data management flows using Spring Boot and MySQL
-- 🛠️ Developed full-stack CRUD apps as part of academic and personal learning projects
-- 🌐 Experimenting with API consumption and async logic to power live content
+### 🧰 Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React, Angular, TypeScript, Next.js, Tailwind CSS |
+| **Backend** | Node.js (Express), Java (Spring Boot), RESTful APIs |
+| **Mobile** | React Native |
+| **Databases** | PostgreSQL, MySQL, MongoDB |
+| **DevOps/Tools** | VPS Management, Docker, Nginx, Git, Postman, Jira |
 
 ---
 
-## 🤝 I'm Open To
-- **Internships** or **entry-level roles** in web or mobile development
-- Collaborating on exciting projects using React, Spring, or Node.js
-- Learning opportunities in real-world software teams
+### 🛠️ Featured Projects
+
+- **[SkillSync](https://github.com/nodstan/skillsync)** - A real-time developer milestone tracker with automated notification logic.
+- **[CoinAName](https://github.com/nodstan/coinaname)** - A specialized decision-tool platform for business naming and brand architecture.
+- **Tresbontech Web Core** - Led the UI/UX refactor of the official company header and navigation systems.
 
 ---
 
-## 📫 Let’s Connect
-- **LinkedIn**: [Stanley Obitunwase](https://www.linkedin.com/in/stanley-obitunwase/)
-- **Portfolio**: [Check out my portfolio](https://nodstan.vercel.app/)
-- **GitHub**: [@nodstan](https://github.com/nodstan)
+### 📊 GitHub Stats
+![Stanley's GitHub stats](https://github-readme-stats.vercel.app/api?username=nodstan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nodstan&layout=compact&theme=tokyonight)
+
+---
+
+### 🤝 Let's Connect
+- 💼 **LinkedIn:** [Stanley Obitunwase](https://www.linkedin.com/in/stanley-obitunwase/)
+- 🌐 **Portfolio:** [Check out my portfolio](https://nodstan.vercel.app/)
+- 📧 **Email:** [Stanleyobitunwase@gmail.com]
+
+---
+*"The best way to predict the future is to build it."*
