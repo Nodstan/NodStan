@@ -29,7 +29,7 @@ I am a Full-Stack Engineer who thrives at the intersection of **clean code** and
 
 - **[Tresbontech LTD](https://tresbontech.com)** - Spearheaded the UI/UX refactoring of the core platform, optimizing navigation flow and implementing a minimalist, high-performance header architecture.
 - **[Tresbontech Academy](https://tresbontechacademy.com)** - Engineered the digital learning infrastructure, focusing on seamless user onboarding and educational content delivery.
-- **[CeasefireTech](https://ceasefiretech,ng)** - Developed specialized technical solutions focusing on robust backend logic and scalable frontend integration.
+- **[CeasefireTech](https://ceasefiretech.ng)** - Developed specialized technical solutions focusing on robust backend logic and scalable frontend integration.
 
 ---
 
