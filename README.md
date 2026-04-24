@@ -37,5 +37,5 @@ I'm a passionate software development student at **NIIT**, currently focused on 
 
 ## 📫 Let’s Connect
 - **LinkedIn**: [Stanley Obitunwase](https://www.linkedin.com/in/stanley-obitunwase/)
-- **Portfolio**: [Check out my portfolio](https://nodstan.vervel.app/)
+- **Portfolio**: [Check out my portfolio](https://nodstan.vercel.app/)
 - **GitHub**: [@nodstan](https://github.com/nodstan)
