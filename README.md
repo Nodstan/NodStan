@@ -27,9 +27,9 @@ I am a Full-Stack Engineer who thrives at the intersection of **clean code** and
 
 ### 🛠️ Featured Projects
 
-- **[SkillSync](https://github.com/nodstan/skillsync)** - A real-time developer milestone tracker with automated notification logic.
-- **[CoinAName](https://github.com/nodstan/coinaname)** - A specialized decision-tool platform for business naming and brand architecture.
-- **Tresbontech Web Core** - Led the UI/UX refactor of the official company header and navigation systems.
+- **[Tresbontech LTD](https://tresbontech.com)** - Spearheaded the UI/UX refactoring of the core platform, optimizing navigation flow and implementing a minimalist, high-performance header architecture.
+- **[Tresbontech Academy](https://tresbontechacademy.com)** - Engineered the digital learning infrastructure, focusing on seamless user onboarding and educational content delivery.
+- **[CeasefireTech](https://ceasefiretech,ng)** - Developed specialized technical solutions focusing on robust backend logic and scalable frontend integration.
 
 ---
 
@@ -41,8 +41,8 @@ I am a Full-Stack Engineer who thrives at the intersection of **clean code** and
 
 ### 🤝 Let's Connect
 - 💼 **LinkedIn:** [Stanley Obitunwase](https://www.linkedin.com/in/stanley-obitunwase/)
-- 🌐 **Portfolio:** [Check out my portfolio](https://nodstan.vercel.app/)
-- 📧 **Email:** [Stanleyobitunwase@gmail.com]
+- 🌐 **Portfolio:** [nodstan.me](https://nodstan.vercel.app/)
+- 📧 **Email:** Stanleyobitunwase@gmail.com
 
 ---
 *"The best way to predict the future is to build it."*
